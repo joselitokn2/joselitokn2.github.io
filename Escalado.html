@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Flexbox Layout</title>
+    <link rel="stylesheet" type="text/css" href="css/style_escalado.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="Formulario.html"><button>FORMULARIO</button></a></li>
+                <li><a href="index.html"><button>PERFIL</button></a></li>
+                <li><a href="Galeria.html"><button>GALERIA</button></a></li>
+                <li><a href="Escalado.html"><button>ESCALADO</button></a></li>
+                <li><a href="EscaladoGrid.html"><button>GRID</button></a></li>
+            </ul>
+        </nav>
+    </header>
+    <br>
+
+    <div class="container">
+
+
+        <div class="main-and-sidebar-wrapper">
+            <section class="main">
+                <h2>Escalado de imagenes</h2>
+                <picture>
+                    <source media="(min-width: 1000px)" srcset="resources/images/4_ActividadGimp_jpg_large.jpg">
+                    <source media="(min-width: 600px)" srcset="resources/images/5_ActividadGimp_jpg_medium.jpg">
+                    <!--  Imagen por defecto -->
+                    <img src="resources/images/6_ActividadGimp_jpg_small.jpg" alt="Puesta de sol">
+                </picture>
+            </section>
+        </div>
+        <aside class="sidebar">
+                <h3>Sidebar</h3>
+            </aside>
+
+        <footer>
+            <h3>Footer</h3>
+            <p>Escalado de imagenes.</p>
+        </footer>
+
+    </div>
+
+
+</body>
+
+</html>

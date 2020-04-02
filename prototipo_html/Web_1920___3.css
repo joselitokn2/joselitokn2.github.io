@@ -1,0 +1,610 @@
+:root {
+	--web-view-ids: Web_1920___1,Web_1920___3;
+	--web-view-name: Web 1920 – 3;
+	--web-view-id: Web_1920___3;
+	--web-scale-to-fit: false;
+	--web-scale-to-fit-type: default;
+	--web-enable-scale-up: false;
+	--web-scale-on-resize: false;
+	--web-show-scale-controls: false;
+	--web-scale-on-double-click: false;
+	--web-center-horizontally: false;
+	--web-center-vertically: false;
+	--web-actual-size-on-double-click: false;
+	--web-navigate-on-keypress: false;
+	--web-refresh-for-changes: false;
+	--web-add-image-compare: false;
+	--web-application: false;
+	--web-show-navigation-controls: true;
+	--web-enable-deep-linking: true;
+}
+#Web_1920___1,
+#Web_1920___3 {
+	display: none;
+}
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: Web 1920 – 1;
+		--web-view-id: Web_1920___1;
+		--web-show-navigation-controls: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+	}
+	#Web_1920___1 {
+		position: absolute;
+		box-sizing: border-box;
+		display: block;
+		background: #E5E5E5;
+		width: 1920px;
+		height: 1080px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		margin: 0;
+		padding: 0;
+		--web-view-name: Web 1920 – 1;
+		--web-view-id: Web_1920___1;
+		--web-show-navigation-controls: true;
+		--web-enable-deep-linking: true;
+	}
+	.blockchain_credito_sindicado {
+		position: absolute;
+		overflow: visible;
+		width: 1921px;
+		height: 1080px;
+		left: 197px;
+		top: -9px;
+	}
+	.Rect_ngulo_2 {
+		position: absolute;
+		overflow: visible;
+		width: 416px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+	}
+	.IMG_3288 {
+		position: absolute;
+		overflow: visible;
+		width: 368px;
+		height: 373px;
+		left: 24px;
+		top: 39px;
+	}
+	#Jos__Garc_a_Casti_eira {
+		position: absolute;
+		left: 107px;
+		top: 451px;
+		overflow: visible;
+		width: 204px;
+		white-space: nowrap;
+		line-height: 24px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(0,0,0,0.38);
+	}
+	#Desarrollador_Web {
+		position: absolute;
+		left: 125px;
+		top: 489px;
+		overflow: visible;
+		width: 167px;
+		white-space: nowrap;
+		line-height: 24px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(0,0,0,0.38);
+	}
+	#Grupo_6 {
+		position: absolute;
+		width: 413px;
+		height: 418px;
+		left: 455px;
+		top: -18px;
+		overflow: visible;
+	}
+	#Repetir_cuadr_cula_2 {
+		position: absolute;
+		width: 164px;
+		height: 36px;
+		left: 146px;
+		top: 0px;
+		overflow: hidden;
+	}
+	#Grupo_4 {
+		position: absolute;
+		width: 86px;
+		height: 36px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Buttons {
+		position: absolute;
+		width: 86px;
+		height: 36px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Rect_ngulo_190 {
+		position: absolute;
+		overflow: visible;
+		width: 86px;
+		height: 36px;
+		left: 0px;
+		top: 0px;
+	}
+	#Grupo_5 {
+		position: absolute;
+		width: 926px;
+		height: 209px;
+		left: -400px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Buttons_A0_Component_2 {
+		position: absolute;
+		width: 926px;
+		height: 209px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Rect_ngulo_190_A0_Rectangle_5 {
+		position: absolute;
+		overflow: visible;
+		width: 86px;
+		height: 36px;
+		left: 482px;
+		top: 0px;
+	}
+	.Elipse_1 {
+		position: absolute;
+		overflow: visible;
+		width: 170px;
+		height: 74px;
+		left: 756px;
+		top: 11px;
+	}
+	.Elipse_2 {
+		position: absolute;
+		overflow: visible;
+		width: 350px;
+		height: 30px;
+		left: 0px;
+		top: 179px;
+	}
+	.Rect_ngulo_191 {
+		position: absolute;
+		overflow: visible;
+		width: 418px;
+		height: 316px;
+		left: 0px;
+		top: 93px;
+	}
+	#Un_desarrollador_web_es_un_pro {
+		position: absolute;
+		left: 66px;
+		top: 118px;
+		overflow: hidden;
+		width: 301px;
+		height: 300px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(112,112,112,1);
+	}
+	#Grupo_334 {
+		position: absolute;
+		width: 373px;
+		height: 91px;
+		left: 20px;
+		top: 574px;
+		overflow: visible;
+	}
+	.Rect_ngulo_193 {
+		position: absolute;
+		overflow: visible;
+		width: 373px;
+		height: 91px;
+		left: 0px;
+		top: 0px;
+	}
+	#FORMULARIO {
+		position: absolute;
+		left: 124px;
+		top: 33px;
+		overflow: visible;
+		width: 127px;
+		white-space: nowrap;
+		line-height: 24px;
+		margin-top: -2px;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(0,0,0,0.38);
+	}
+}
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: Web 1920 – 3;
+		--web-view-id: Web_1920___3;
+		--web-show-navigation-controls: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+	}
+	#Web_1920___3 {
+		position: absolute;
+		box-sizing: border-box;
+		display: block;
+		background: #E5E5E5;
+		width: 1920px;
+		height: 1080px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		margin: 0;
+		padding: 0;
+		--web-view-name: Web 1920 – 3;
+		--web-view-id: Web_1920___3;
+		--web-show-navigation-controls: true;
+		--web-enable-deep-linking: true;
+	}
+	.IMAGEN {
+		position: absolute;
+		overflow: visible;
+		width: 2144.964px;
+		height: 1600.226px;
+		left: -122.902px;
+		top: -243.008px;
+		transform: rotate(-1deg);
+		transform-origin: left;
+	}
+	#ic_menu_white {
+		position: absolute;
+		width: 59px;
+		height: 69px;
+		left: 924px;
+		top: 219px;
+		overflow: visible;
+	}
+	.rectangle {
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		height: 69px;
+		left: 0px;
+		top: 0px;
+	}
+	.ic_menu_white_A1_Path_1 {
+		overflow: visible;
+		position: absolute;
+		top: 28.266px;
+		left: 3px;
+		width: 53.802px;
+		height: 12px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#ic_menu_white_A1_Group_6 {
+		position: absolute;
+		width: 118px;
+		height: 232px;
+		left: 56px;
+		top: 440px;
+		overflow: visible;
+	}
+	.rectangle_A1_Rectangle_11 {
+		position: absolute;
+		overflow: visible;
+		width: 118px;
+		height: 232px;
+		left: 0px;
+		top: 0px;
+	}
+	.ic_menu_white_A1_Path_2 {
+		overflow: visible;
+		position: absolute;
+		top: 109.845px;
+		left: 3px;
+		width: 112.486px;
+		height: 12px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Grupo_10 {
+		position: absolute;
+		width: 536px;
+		height: 424px;
+		left: 1148px;
+		top: 396px;
+		overflow: visible;
+	}
+	#Grupo_9 {
+		position: absolute;
+		width: 536px;
+		height: 424px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Grupo_7 {
+		position: absolute;
+		width: 536px;
+		height: 424px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Grupo_3 {
+		position: absolute;
+		width: 536px;
+		height: 424px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Grupo_2 {
+		position: absolute;
+		width: 536px;
+		height: 424px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Grupo_1 {
+		position: absolute;
+		width: 536px;
+		height: 424px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Rect_ngulo_1 {
+		position: absolute;
+		overflow: visible;
+		width: 536px;
+		height: 424px;
+		left: 0px;
+		top: 0px;
+	}
+	#hint_text_3_light {
+		position: absolute;
+		width: 481px;
+		height: 41px;
+		left: 38px;
+		top: 122px;
+		overflow: visible;
+	}
+	.text_path {
+		position: absolute;
+		overflow: visible;
+		width: 481px;
+		height: 2px;
+		left: 0px;
+		top: 39px;
+	}
+	#hint_text_A1_Text_9 {
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		line-height: 24px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(0,0,0,0.38);
+	}
+	.text_cursor_active_A1_Rectangle_20 {
+		position: absolute;
+		overflow: visible;
+		width: 1px;
+		height: 20px;
+		left: 0px;
+		top: 1px;
+	}
+	#hint_text_3_light_A1_Group_14 {
+		position: absolute;
+		width: 481px;
+		height: 88px;
+		left: 38px;
+		top: 198px;
+		overflow: visible;
+	}
+	.text_path_A1_Rectangle_15 {
+		position: absolute;
+		overflow: visible;
+		width: 481px;
+		height: 2px;
+		left: 0px;
+		top: 39px;
+	}
+	#hint_text_A1_Text_6 {
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+		width: 41px;
+		white-space: nowrap;
+		line-height: 24px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(0,0,0,0.38);
+	}
+	.text_cursor_active_A1_Rectangle_16 {
+		position: absolute;
+		overflow: visible;
+		width: 1px;
+		height: 20px;
+		left: 0px;
+		top: 1px;
+	}
+	#Mensaje {
+		position: absolute;
+		left: 1px;
+		top: 67px;
+		overflow: visible;
+		width: 62px;
+		white-space: nowrap;
+		line-height: 24px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(0,0,0,0.38);
+	}
+	#hint_text_3_light_A1_Group_15 {
+		position: absolute;
+		width: 481px;
+		height: 41px;
+		left: 38px;
+		top: 55px;
+		overflow: visible;
+	}
+	.text_path_A1_Rectangle_17 {
+		position: absolute;
+		overflow: visible;
+		width: 481px;
+		height: 2px;
+		left: 0px;
+		top: 39px;
+	}
+	#hint_text_A1_Text_8 {
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+		width: 58px;
+		white-space: nowrap;
+		line-height: 24px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(0,0,0,0.38);
+	}
+	.text_cursor_active_A1_Rectangle_18 {
+		position: absolute;
+		overflow: visible;
+		width: 1px;
+		height: 20px;
+		left: 0px;
+		top: 1px;
+	}
+	#hint_text_3_light_A1_Group_16 {
+		position: absolute;
+		width: 481px;
+		height: 180px;
+		left: 38px;
+		top: 122px;
+		overflow: visible;
+	}
+	.text_path_A1_Rectangle_19 {
+		position: absolute;
+		overflow: visible;
+		width: 481px;
+		height: 2px;
+		left: 0px;
+		top: 178px;
+	}
+	#hint_text_A1_Text_9 {
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		line-height: 24px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(0,0,0,0.38);
+	}
+	.text_cursor_active_A1_Rectangle_20 {
+		position: absolute;
+		overflow: visible;
+		width: 1px;
+		height: 20px;
+		left: 0px;
+		top: 1px;
+	}
+	#FORMULARIO_A1_Text_10 {
+		position: absolute;
+		left: 201px;
+		top: 10px;
+		overflow: visible;
+		width: 127px;
+		white-space: nowrap;
+		line-height: 24px;
+		margin-top: -2px;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(0,0,0,0.38);
+	}
+	#Grupo_8 {
+		position: absolute;
+		width: 116px;
+		height: 42px;
+		left: 374px;
+		top: 359px;
+		overflow: visible;
+	}
+	.Rect_ngulo_192 {
+		position: absolute;
+		overflow: visible;
+		width: 116px;
+		height: 42px;
+		left: 0px;
+		top: 0px;
+	}
+	#ENVIAR {
+		position: absolute;
+		left: 23px;
+		top: 8px;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		line-height: 24px;
+		margin-top: -2px;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(0,0,0,0.38);
+	}
+}
